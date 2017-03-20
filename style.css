@@ -1,0 +1,59 @@
+
+h1 {
+    background-color:#ffcccc;
+    text-align: center;
+    font-family:'Baloo Bhaina', cursive;
+    font-size: 50px;
+}
+
+#jennifer {
+        border-style: solid;
+        border-width: 20px;
+        border-color: black;
+        padding: 40px;
+        margin-left: 50px;
+        margin-right: 50px;
+        background-color: #ff8080;
+}
+
+#ariana {
+    border-style: double;
+    border-width: 20px;
+    border-color: #4c0080;
+    border-radius: 70px;
+}
+
+#firstline {
+    margin-left: 7%;
+    margin-right: 7%;
+}
+    
+#secondline {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#james {
+    border-style: solid;
+    border-width: 30px;
+    border-color: #660000;
+    padding: 20px;
+    background-color: #ff9999;
+    margin-bottom: 50px;
+}
+
+#rob {
+    border-style: double;
+    border-width: 10px;
+    border-color: #0080ff;
+    border-radius: 130px;
+    margin-bottom: 105px;
+}
+
+#ellen {
+    border-style: dotted;
+    border-width: 20px;
+    border-color: #3d0f2e;
+    padding: 20px;
+    margin-left: 30px;
+}
